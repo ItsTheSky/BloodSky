@@ -1,0 +1,11 @@
+name: BloodSky
+version: 1.0
+author: ItsTheSky
+description: Plugin custom dév par ItsTheSky pour Urgarr et son serveur, BloodSky
+main: info.itsthesky.BloodSky.BloodSky
+website: https://itsthesky.info/
+api-version: 1.13
+depend:
+  - MMOItems
+  - MMOLib
+  - Skript
